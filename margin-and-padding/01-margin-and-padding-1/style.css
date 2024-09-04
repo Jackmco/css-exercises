@@ -1,14 +1,14 @@
 body {
   max-width: 600px;
-  margin: 0 auto;
+  margin: auto;
 }
 
 .one {
   background: pink;
   border: 3px solid blue;
   /* CHANGE ME */
-  padding: 0px;
-  margin: 0px;
+  padding: 40px;
+  margin: 15px 40px 15px;
 }
 
 .two {
@@ -16,6 +16,8 @@ body {
   border: 3px solid purple;
   /* CHANGE ME */
   margin-bottom: 0px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .three {
@@ -23,6 +25,7 @@ body {
   border: 3px solid brown;
   width: 200px;
   /* CHANGE ME */
-  padding: 0px;
-  margin-left: 0px;
+  padding: 40px;
+  margin-left: 290px;
+  margin-top: 50px;
 }
